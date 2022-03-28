@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "66a24400fb8e3cd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "06aefd9bbbfe5159",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/the-big-glossary.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81d1bbcaa07619c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6769f1d2419ecd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a89608aa090e5c27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "794cfeaf53804161",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#obsidian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "752951771f3141aa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3beb37339495e880",
+    "type": "split",
+    "children": [
+      {
+        "id": "16a4b3fc6fa7e276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "085a6c519ab275d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/the-big-glossary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9cb9f3412b097d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/the-big-glossary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd17b08ec36602f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c997ca3df8b8e14a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/the-big-glossary.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "06aefd9bbbfe5159",
+  "lastOpenFiles": [
+    "notes/the-big-glossary.md",
+    "notes/obsidian-shortcuts.md",
+    "notes/nick-milo.md",
+    "notes/git-review.md",
+    "notes/today-i-learned/2022-03-28.md",
+    "templates/daily-template-1.md"
+  ]
+}

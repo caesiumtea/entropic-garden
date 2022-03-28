@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "src",
+  "showUnsupportedFiles": true,
+  "autoPairMarkdown": true,
+  "newFileLocation": "current",
+  "strictLineBreaks": true,
+  "spellcheck": false,
+  "useMarkdownLinks": true
+}
