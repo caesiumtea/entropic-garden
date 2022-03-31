@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/the-big-glossary.md",
+            "file": "notes/today-i-learned/2022-03-29.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 182
   },
   "right": {
     "id": "3beb37339495e880",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/the-big-glossary.md",
+                "file": "notes/today-i-learned/2022-03-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/the-big-glossary.md",
+                "file": "notes/today-i-learned/2022-03-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,23 +118,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/the-big-glossary.md"
+                "file": "notes/today-i-learned/2022-03-29.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283
   },
   "active": "06aefd9bbbfe5159",
   "lastOpenFiles": [
+    "notes/today-i-learned/2022-03-29.md",
+    "notes/today-i-learned/2022-03-28.md",
+    "notes/css-notes.md",
     "notes/the-big-glossary.md",
     "notes/obsidian-shortcuts.md",
     "notes/nick-milo.md",
     "notes/git-review.md",
-    "notes/today-i-learned/2022-03-28.md",
     "templates/daily-template-1.md"
   ]
 }
