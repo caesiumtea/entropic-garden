@@ -40,7 +40,9 @@ our purpose in joinging ludum dare, in order of importance, is....
 
 #### scrapbook entries to collect....!
 -   a few photos of shenanigans with friends (ok ok just one i guess lol)
+	-   dressing up a gargoyle and then taking selfies with it
 -   flowers, herbs
+	-   thyme - add a piece of it to your scrapbook along with a joke about wanting more time
 -   a seashell from a visit to the beach
 -   picture of cute food or cafe drink
 -   something like a feather?? (or maybe thats jsut an ingredient)
@@ -226,7 +228,7 @@ main points of value (ie, if i were a player, what would i be expecting to get o
 const dailyChances = 3 // how many times per day player can gather resources or click a place on a map
 
 // update on each day start
-days //how many days left to play
+daysLeft //how many days left to play
 
 // reset on each day start
 numExploresToday // how many times we have clicked a map spot so far today

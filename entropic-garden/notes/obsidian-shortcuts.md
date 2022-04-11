@@ -23,4 +23,8 @@ tagged: #obsidian #commands #cheatsheet
 ### my custom shortcuts
 
 1. `[Alt + up/down arrow]` move line up/down (a la VS Code)
-2. 
+2. `[Alt + V]` switch vault
+3. `[Alt + T]` insert template
+4. `[Alt + D]` open today's daily page
+5. `[Ctrl + 8]` toggle bullet list
+6. `[Ctrl + Shift + 8]` cycle bullet/checkbox

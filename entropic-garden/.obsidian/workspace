@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/git-review.md",
+            "file": "notes/obsidian-shortcuts.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/git-review.md",
+                "file": "notes/obsidian-shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/git-review.md",
+                "file": "notes/obsidian-shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/git-review.md"
+                "file": "notes/obsidian-shortcuts.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "06aefd9bbbfe5159",
   "lastOpenFiles": [
-    "notes/git-review.md",
+    "notes/obsidian-shortcuts.md",
     "notes/witch-game.md",
+    "notes/git-review.md",
     "notes/javascript-notes.md",
     "notes/ludum-dare.md",
     "notes/today-i-learned/2022-03-29.md",
     "notes/today-i-learned/2022-03-28.md",
     "notes/css-notes.md",
     "notes/the-big-glossary.md",
-    "notes/obsidian-shortcuts.md",
     "notes/nick-milo.md"
   ]
 }
